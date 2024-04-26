@@ -1,0 +1,8 @@
+re
+xlsxwriter
+PyPDF2
+Document
+zipfile
+io  
+streamlit 
+os
